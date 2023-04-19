@@ -3,10 +3,10 @@
 
 Simple calculator app in Typescript
 
-with simple functions:
-  -Add
-  -Multiply
-  -Devide
-  -Subtract
+* with simple functions:
+  * Add
+  * Multiply
+  * Devide
+  * Subtract
   
   
